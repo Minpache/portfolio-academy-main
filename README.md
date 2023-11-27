@@ -1,1 +1,1 @@
-# portfolio-academy-main
+# companykim.github.io
